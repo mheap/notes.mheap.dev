@@ -6,7 +6,7 @@ Hi, I'm Michael 👋
 
 This is an ever changing collection of thoughts and notes.
 
-Not sure where to start? Try my [[favourite notes]]
+Not sure where to start? For now, there's only the [[books]] page
 
 ---
 

@@ -11,3 +11,4 @@ You can find my entire reading list on [Goodreads](https://www.goodreads.com/aut
 ## Recent Notes
 
 - [[The First 90 Days]]
+- [[Leadership and Self Deception]]
